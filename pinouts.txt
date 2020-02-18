@@ -1,0 +1,9 @@
+0R110  --> 13   G0  --> R1
+B0  --> G1   GND --> GND (null) 
+R1  --> R0   G1  --> G0
+B1  --> B0   GND --> GND 
+
+A   --> 19   B   --> 23
+C   --> 18   D   --> 5
+CLK --> 14   LAT --> 22
+OE  -->  2   GND --> GND
